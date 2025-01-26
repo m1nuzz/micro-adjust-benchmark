@@ -1,0 +1,13 @@
+NumWorkers=2
+WorkPreference=0
+CoresPerTest=4
+ComputerGUID=ba3652df3d72cec984a2ca84a384326c
+StressTester=0
+UsePrimenet=1
+
+[Internals]
+OldCpuSpeed=4694
+NewCpuSpeedCount=0
+NewCpuSpeed=0
+V30OptionsConverted=1
+WGUID_version=2
